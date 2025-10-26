@@ -1,0 +1,3 @@
+# requirements.txt
+# Dependencias necesarias para el script de Python
+requests
